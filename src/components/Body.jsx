@@ -10,7 +10,7 @@ const Body = () => {
       exit={{ opacity: 0 }}
     >
       <div 
-        className="relative bg-cover bg-center text-white py-20 px-4 sm:py-32 sm:px-6 lg:px-8"
+        className="relative bg-cover bg-center text-white py-32 sm:py-40 px-4 sm:px-6 lg:px-8"
         style={{ backgroundImage: `url(${bgImg})` }}
       >
         <div className="absolute inset-0 bg-black opacity-50"></div>
